@@ -19,7 +19,7 @@
         <setting name="additionalCompilerParameters" value="-Xss1024k" />
         <setting name="compilerMaxHeapSize" value="512" />
         <setting name="gwtScriptOutputStyle" value="OBF" />
-        <setting name="gwtSdkUrl" value="file://C:\Users\Nils\.m2\repository/com/vaadin/vaadin-client/7.4.0.alpha14" />
+        <setting name="gwtSdkUrl" value="file://C:\Users\Julia\.m2\repository/com/vaadin/vaadin-client/7.4.0.alpha14" />
         <setting name="gwtSdkType" value="Vaadin-Maven" />
         <setting name="webFacet" value="Web" />
       </configuration>
