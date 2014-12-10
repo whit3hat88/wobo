@@ -28,7 +28,7 @@ public class HousingUI extends UI
         setContent(layout);
         
         Button button = new Button("Intellij IDEA");
-        button.addClickListener(event -> layout.addComponent(new Label("test")));
+        button.addClickListener(event -> layout.addComponent(new Label("MWI WoBo w l ala:D :D test test test test")));
         layout.addComponent(button);
     }
 
